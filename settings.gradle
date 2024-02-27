@@ -1,0 +1,2 @@
+rootProject.name = 'springSecurity'
+include 'spring-security-basic'

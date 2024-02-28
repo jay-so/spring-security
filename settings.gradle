@@ -1,2 +1,3 @@
 rootProject.name = 'springSecurity'
 include 'spring-security-basic'
+include 'spring-security-ch2'
